@@ -21,6 +21,15 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [GitHub Jobs](https://jobs.github.com/)
 - [RemoteOK](https://remoteok.io/)
+- [We Work Remotely](https://www.weworkremotely.com)
+- [Well Found](https://www.wellfound.com)
+- [Flex Jobs](https://www.flexjobs.com)
+- [Working Nomads](https://www.workingnomads.com/jobs)
+- [Just Remote](https://www.justremote.co)
+- [Skip The Drive](https://www.skipthedrive.com)
+- [Turing](https://www.turing.com)
+- [Job Board Search](https://www.jobboardsearch.com)
+
 
 ## Tools
 
