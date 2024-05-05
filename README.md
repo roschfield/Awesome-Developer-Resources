@@ -12,6 +12,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [CSS and HTML Guides](#css-and-html-guides)
 - [Free E-books](#free-e-books)
 - [Interview Practice](#interview-practice)
+- [Illustrations](#illustrations)
 - [And More](#and-more)
 
 ## Job Websites
@@ -79,6 +80,14 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Tech Mock Interview](https://techmockinterview.com/)
 - [Pramp](https://www.pramp.com/#/)
 - [Interview Buddy](https://interviewbuddy.net/)
+
+## Illustrations
+
+- [Undraw](undraw.co)
+- [Draw kit](drawkit.io)
+- [Blush Design](blush.design)
+- [IRA Design](iradesign.io)
+
 ## And More
 
 - [Awesome List](https://github.com/sindresorhus/awesome)
