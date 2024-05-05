@@ -11,6 +11,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
 - [CSS and HTML Guides](#css-and-html-guides)
 - [Free E-books](#free-e-books)
+- [Interview Practice](#interview-practice)
 - [And More](#and-more)
 
 ## Job Websites
@@ -70,7 +71,14 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [GitHub Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [O'Reilly Open Books Project](https://www.oreilly.com/openbook/)
 - [FreeTechBooks](http://www.freetechbooks.com/)
+- 
+## Interview Practice
 
+- [Interviews.school](https://interviews.school/)
+- [Interviewing.io](https://interviewing.io/)
+- [Tech Mock Interview](https://techmockinterview.com/)
+- [Pramp](https://www.pramp.com/#/)
+- [Interview Buddy](https://interviewbuddy.net/)
 ## And More
 
 - [Awesome List](https://github.com/sindresorhus/awesome)
