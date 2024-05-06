@@ -13,6 +13,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Free E-books](#free-e-books)
 - [Interview Practice](#interview-practice)
 - [Illustrations](#illustrations)
+- [Design Inspirations](#design-inspirations)
 - [And More](#and-more)
 
 ## Job Websites
@@ -87,6 +88,20 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Draw kit](drawkit.io)
 - [Blush Design](blush.design)
 - [IRA Design](iradesign.io)
+
+
+## Design Inspirations
+
+- [UI Store Design](uistore.design)
+- [UI8](ui.net)
+- [Freebies UI](frebies.net)
+- [UI Bundle](uibundle.com)
+- [UI Garage](uigarage.net)
+- [XD Guru](xdguru.com)
+- [Bloo Wireframe Kit](bloouikit.com)
+- [Daily UI Kit](dailyui.co)
+- [Collect UI](collectui.com)
+- [Screenlane](screenlane.com)
 
 ## And More
 
