@@ -95,6 +95,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [UI Store Design](uistore.design)
 - [UI8](ui.net)
 - [Freebies UI](frebies.net)
+- [Freebies By People](frebies.bypeople.com)
 - [UI Bundle](uibundle.com)
 - [UI Garage](uigarage.net)
 - [XD Guru](xdguru.com)
