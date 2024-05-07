@@ -6,6 +6,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 
 - [Job Websites](#job-websites)
 - [Tools](#tools)
+- [Icons](#icons)
 - [YouTube Playlists](#youtube-playlists)
 - [Roadmaps](#roadmaps)
 - [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
@@ -42,6 +43,24 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Postman](https://www.postman.com/)
 - [Docker](https://www.docker.com/)
 - [Slack](https://slack.com/)
+
+
+## Icons
+
+- [Font Awesome](fontawesome.com)
+- [Flaticon](flaticon.com)
+- [Icons8](icons8.com)
+- [Material UI Icons](https://mui.com/material-ui/material-icons/)
+- [Google Fonts Material Icons](https://fonts.google.com/icons?icon.size=24&icon.color=%235f6368&icon.platform=android)
+- [The Noun Project Icons](https://thenounproject.com/icons/)
+- [Endless Icons](https://endlessicons.com/)
+- [Feather Icons](https://feathericons.com/)
+- [SVG porn](https://svgporn.com/)
+- [Heroicons](https://heroicons.com/)
+- [Icomoon](https://icomoon.io/)
+- [Devicon](https://devicon.dev/)
+- [css.gg](https://css.gg/)
+- [Boxicons](https://boxicons.com/)
 
 ## YouTube Playlists
 
