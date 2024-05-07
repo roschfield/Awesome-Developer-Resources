@@ -12,6 +12,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
 - [CSS and HTML Guides](#css-and-html-guides)
 - [Free E-books](#free-e-books)
+- [Animations](#animations)
 - [Interview Practice](#interview-practice)
 - [Illustrations](#illustrations)
 - [Design Inspirations](#design-inspirations)
@@ -92,7 +93,21 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [GitHub Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [O'Reilly Open Books Project](https://www.oreilly.com/openbook/)
 - [FreeTechBooks](http://www.freetechbooks.com/)
-- 
+
+
+## Animations
+- [Three.js](https://threejs.org/)
+- [Animista.net](https://animista.net/)
+- [Scroll Reavel JS](https://scrollrevealjs.org/)
+- [GSAP](https://gsap.com/)
+- [Animate.css](https://animate.style/)
+- [Anime.js](https://animejs.com/)
+- [Hover CSS](https://ianlunn.github.io/Hover/)
+- [Mo.js](https://mojs.github.io/)
+- [Wicked CSS Animations](https://kristofferandreasen.github.io/wickedCSS/documentation.html)
+- [Magic Animations](https://www.minimamente.com/project/magic/)
+
+
 ## Interview Practice
 
 - [Interviews.school](https://interviews.school/)
