@@ -96,7 +96,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [FreeTechBooks](http://www.freetechbooks.com/)
 
 
-## Tools
+## Online Coding Websites
 
 - [Code Forces](https://codeforces.com/)
 - [LeetCode](https://leetcode.com/)
