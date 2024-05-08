@@ -12,6 +12,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
 - [CSS and HTML Guides](#css-and-html-guides)
 - [Free E-books](#free-e-books)
+- [Online Coding Websites](#online-coding-websites)
 - [Animations](#animations)
 - [Interview Practice](#interview-practice)
 - [Illustrations](#illustrations)
@@ -93,6 +94,21 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [GitHub Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [O'Reilly Open Books Project](https://www.oreilly.com/openbook/)
 - [FreeTechBooks](http://www.freetechbooks.com/)
+
+
+## Tools
+
+- [Code Forces](https://codeforces.com/)
+- [LeetCode](https://leetcode.com/)
+- [Code Chef](https://www.codechef.com/)
+- [Coder Byte](https://coderbyte.com/)
+- [Coding Game](https://www.codingame.com/start/)
+- [Code Wars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Project Euler](https://projecteuler.net/archives)
+- [Top Coder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+- [Exercism](https://exercism.org/)
+- [Sphere Online Judge](https://www.spoj.com/)
 
 
 ## Animations
