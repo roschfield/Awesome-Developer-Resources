@@ -144,6 +144,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 
 - [UI Store Design](uistore.design)
 - [UI8](ui.net)
+- [Mobbin](https://mobbin.com/browse/ios/apps)
 - [Freebies UI](frebies.net)
 - [Freebies By People](frebies.bypeople.com)
 - [UI Bundle](uibundle.com)
