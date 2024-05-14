@@ -53,6 +53,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Font Awesome](fontawesome.com)
 - [Flaticon](flaticon.com)
 - [Icons8](icons8.com)
+- [3D icons](https://3dicons.co/)
 - [Lordicon](https://lordicon.com/)
 - [Material UI Icons](https://mui.com/material-ui/material-icons/)
 - [Google Fonts Material Icons](https://fonts.google.com/icons?icon.size=24&icon.color=%235f6368&icon.platform=android)
