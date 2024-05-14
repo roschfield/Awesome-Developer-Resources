@@ -179,6 +179,8 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Daily UI Kit](dailyui.co)
 - [Collect UI](collectui.com)
 - [Screenlane](screenlane.com)
+- [Awwwards](https://www.awwwards.com/)
+- [Dark Design](https://www.dark.design/)
 
 ## And More
 
