@@ -43,6 +43,9 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Job Board Search](https://www.jobboardsearch.com)
 
 
+- [Back to Top](#awesome-developer-resources)
+
+
 ## Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -51,6 +54,9 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Postman](https://www.postman.com/)
 - [Docker](https://www.docker.com/)
 - [Slack](https://slack.com/)
+
+
+- [Back to Top](#awesome-developer-resources)
 
 
 ## Icons
@@ -72,6 +78,8 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [css.gg](https://css.gg/)
 - [Boxicons](https://boxicons.com/)
 
+- [Back to Top](#awesome-developer-resources)
+
 
 ## Frontend Resources
 
@@ -82,12 +90,18 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Docker](https://www.docker.com/)
 - [Slack](https://slack.com/)
 
+- [Back to Top](#awesome-developer-resources)
+
 
 ## YouTube Playlists
 
 - [FreeCodeCamp](https://www.youtube.com/user/FreeCodeCamp)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+
+- [Back to Top](#awesome-developer-resources)
+
 
 ## Roadmaps
 
@@ -96,11 +110,18 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [Machine Learning Roadmap](https://roadmap.sh/machine-learning)
 
+- [Back to Top](#awesome-developer-resources)
+
+
 ## Data Structures and Algorithms (DSA)
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+
+- [Back to Top](#awesome-developer-resources)
+
 
 ## CSS and HTML Guides
 
@@ -108,11 +129,17 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [CSS-Tricks](https://css-tricks.com/)
 - [W3Schools](https://www.w3schools.com/)
 
+
+- [Back to Top](#awesome-developer-resources)
+
+
 ## Free E-books
 
 - [GitHub Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [O'Reilly Open Books Project](https://www.oreilly.com/openbook/)
 - [FreeTechBooks](http://www.freetechbooks.com/)
+
+- [Back to Top](#awesome-developer-resources)
 
 
 ## Online Coding Websites
@@ -129,6 +156,8 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Exercism](https://exercism.org/)
 - [Sphere Online Judge](https://www.spoj.com/)
 
+- [Back to Top](#awesome-developer-resources)
+
 
 ## Animations
 - [Three.js](https://threejs.org/)
@@ -142,6 +171,8 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Wicked CSS Animations](https://kristofferandreasen.github.io/wickedCSS/documentation.html)
 - [Magic Animations](https://www.minimamente.com/project/magic/)
 
+- [Back to Top](#awesome-developer-resources)
+
 
 ## Interview Practice
 
@@ -151,12 +182,17 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Pramp](https://www.pramp.com/#/)
 - [Interview Buddy](https://interviewbuddy.net/)
 
+- [Back to Top](#awesome-developer-resources)
+
+
 ## Illustrations
 
 - [Undraw](undraw.co)
 - [Draw kit](drawkit.io)
 - [Blush Design](blush.design)
 - [IRA Design](iradesign.io)
+
+- [Back to Top](#awesome-developer-resources)
 
 
 ## Design Inspirations
@@ -187,11 +223,17 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Awwwards](https://www.awwwards.com/)
 - [Dark Design](https://www.dark.design/)
 
+- [Back to Top](#awesome-developer-resources)
+
 ## And More
 
 - [Awesome List](https://github.com/sindresorhus/awesome)
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://www.coursera.org/)
+
+
+- [Back to Top](#awesome-developer-resources)
+
 
 ## How to Contribute
 
