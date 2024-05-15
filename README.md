@@ -35,6 +35,11 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Just Remote](https://www.justremote.co)
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Turing](https://www.turing.com)
+- [PowerToFly](https://powertofly.com/)
+- [Authentic Jobs](https://authenticjobs.com/)
+- [Simply Hired](https://www.simplyhired.com/)
+- [Relocate Me](https://relocate.me/)
+- [Dice](https://www.dice.com/)
 - [Job Board Search](https://www.jobboardsearch.com)
 
 
