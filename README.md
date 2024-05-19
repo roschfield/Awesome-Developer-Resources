@@ -87,6 +87,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Prisma](https://www.prisma.io/dataguide/intro)
 - [Oracle](https://www.oracle.com/database/what-is-a-relational-database/)
 - [Scaler](https://www.scaler.com/topics/dbms/)
+- [Database Star](https://www.databasestar.com/)
 - [Opentextbc](https://opentextbc.ca/dbdesign01/)
 
 
