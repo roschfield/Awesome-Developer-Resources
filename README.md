@@ -7,6 +7,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Job Websites](#job-websites)
 - [Tools](#tools)
 - [Icons](#icons)
+- [Database Management system](#database-management-system)
 - [Frontend Resources](#frontend-resources)
 - [YouTube Playlists](#youtube-playlists)
 - [Roadmaps](#roadmaps)
@@ -81,6 +82,17 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Back to Top](#awesome-developer-resources)
 
 
+## Database Management System
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub](https://github.com/)
+- [Git](https://git-scm.com/)
+- [Postman](https://www.postman.com/)
+- [Docker](https://www.docker.com/)
+- [Slack](https://slack.com/)
+
+
+- [Back to Top](#awesome-developer-resources)
 ## Frontend Resources
 
 - [Merge Society](https://www.mergesociety.com/)
