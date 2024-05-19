@@ -84,12 +84,11 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 
 ## Database Management System
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [GitHub](https://github.com/)
-- [Git](https://git-scm.com/)
-- [Postman](https://www.postman.com/)
-- [Docker](https://www.docker.com/)
-- [Slack](https://slack.com/)
+- [Prisma](https://www.prisma.io/dataguide/intro)
+- [Oracle](https://www.oracle.com/database/what-is-a-relational-database/)
+- [Scaler](https://www.scaler.com/topics/dbms/)
+- [Opentextbc](https://opentextbc.ca/dbdesign01/)
+
 
 
 - [Back to Top](#awesome-developer-resources)
