@@ -41,6 +41,10 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Simply Hired](https://www.simplyhired.com/)
 - [Relocate Me](https://relocate.me/)
 - [Dice](https://www.dice.com/)
+- [Himalayas](https://himalayas.app/)
+- [Workew](https://workew.com/)
+- [Jobspresso](https://jobspresso.co/)
+- [Arc](https://arc.dev/remote-jobs)
 - [Job Board Search](https://www.jobboardsearch.com)
 
 
