@@ -23,6 +23,24 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [YouTube Playlists](#youtube-playlists)
 - [And More](#and-more)
 
+
+## Animations
+
+- [Animista.net](https://animista.net/)
+- [Animate.css](https://animate.style/)
+- [Anime.js](https://animejs.com/)
+- [GSAP](https://gsap.com/)
+- [Hover CSS](https://ianlunn.github.io/Hover/)
+- [Mo.js](https://mojs.github.io/)
+- [Magic Animations](https://www.minimamente.com/project/magic/)
+- [Scroll Reveal JS](https://scrollrevealjs.org/)
+- [Three.js](https://threejs.org/)
+- [Wicked CSS Animations](https://kristofferandreasen.github.io/wickedCSS/documentation.html)
+
+
+- [Back to Top](#awesome-developer-resources)
+
+
 ## Job Websites
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
@@ -173,21 +191,6 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Top Coder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
 - [Exercism](https://exercism.org/)
 - [Sphere Online Judge](https://www.spoj.com/)
-
-- [Back to Top](#awesome-developer-resources)
-
-
-## Animations
-- [Three.js](https://threejs.org/)
-- [Animista.net](https://animista.net/)
-- [Scroll Reavel JS](https://scrollrevealjs.org/)
-- [GSAP](https://gsap.com/)
-- [Animate.css](https://animate.style/)
-- [Anime.js](https://animejs.com/)
-- [Hover CSS](https://ianlunn.github.io/Hover/)
-- [Mo.js](https://mojs.github.io/)
-- [Wicked CSS Animations](https://kristofferandreasen.github.io/wickedCSS/documentation.html)
-- [Magic Animations](https://www.minimamente.com/project/magic/)
 
 - [Back to Top](#awesome-developer-resources)
 
