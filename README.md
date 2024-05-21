@@ -4,21 +4,23 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 
 ## Table of Contents
 
-- [Job Websites](#job-websites)
-- [Tools](#tools)
-- [Icons](#icons)
-- [Database Management system](#database-management-system)
-- [Frontend Resources](#frontend-resources)
-- [YouTube Playlists](#youtube-playlists)
-- [Roadmaps](#roadmaps)
-- [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
-- [CSS and HTML Guides](#css-and-html-guides)
-- [Free E-books](#free-e-books)
-- [Online Coding Websites](#online-coding-websites)
+
+
 - [Animations](#animations)
+- [CSS and HTML Guides](#css-and-html-guides)
+- [Database Management system](#database-management-system)
+- [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
+- [Design Inspirations](#design-inspirations)
+- [Frontend Resources](#frontend-resources)
+- [Free E-books](#free-e-books)
 - [Interview Practice](#interview-practice)
 - [Illustrations](#illustrations)
-- [Design Inspirations](#design-inspirations)
+- [Icons](#icons)
+- [Job Websites](#job-websites)
+- [Online Coding Websites](#online-coding-websites)
+- [Roadmaps](#roadmaps)
+- [Tools](#tools)
+- [YouTube Playlists](#youtube-playlists)
 - [And More](#and-more)
 
 ## Job Websites
