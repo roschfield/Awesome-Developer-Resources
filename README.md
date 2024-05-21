@@ -41,6 +41,69 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Back to Top](#awesome-developer-resources)
 
 
+## CSS and HTML Guides
+
+- [CSS-Tricks](https://css-tricks.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- [W3Schools](https://www.w3schools.com/)
+
+
+- [Back to Top](#awesome-developer-resources)
+
+
+## Database Management System
+
+- [Database Star](https://www.databasestar.com/)
+- [Oracle](https://www.oracle.com/database/what-is-a-relational-database/)
+- [Opentextbc](https://opentextbc.ca/dbdesign01/)
+- [Prisma](https://www.prisma.io/dataguide/intro)
+- [Scaler](https://www.scaler.com/topics/dbms/)
+
+
+- [Back to Top](#awesome-developer-resources)
+
+
+## Data Structures and Algorithms (DSA)
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- [LeetCode](https://leetcode.com/)
+
+
+- [Back to Top](#awesome-developer-resources)
+
+
+## Design Inspirations
+
+- [Awwwards](https://www.awwwards.com/)
+- [Anything World](https://anything.world/)
+- [Appshots Design](https://appshots.design/)
+- [Bloo Wireframe Kit](bloouikit.com)
+- [Background Supply](https://www.background.supply/)
+- [Collect UI](collectui.com)
+- [Daily UI Kit](dailyui.co)
+- [Dark Design](https://www.dark.design/)
+- [Freebies UI](frebies.net)
+- [Freebies By People](frebies.bypeople.com)
+- [Godly Website](https://godly.website/)
+- [Graphic For Free](https://graphicforfree.com/)
+- [Gomila](https://www.gomila.co/)
+- [Graphics Fuel](https://www.graphicsfuel.com/)
+- [Indie Ground](https://indieground.net/)
+- [Mobbin](https://mobbin.com/browse/ios/apps)
+- [Scrnshts Club](https://scrnshts.club/)
+- [Screenlane](screenlane.com)
+- [Texture Labs](https://texturelabs.org/)
+- [UI Store Design](uistore.design)
+- [UI8](ui.net)
+- [UI Bundle](uibundle.com)
+- [UI Garage](uigarage.net)
+- [UI Sources](https://www.uisources.com/)
+- [XD Guru](xdguru.com)
+
+- [Back to Top](#awesome-developer-resources)
+
+
 ## Job Websites
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
@@ -106,17 +169,7 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Back to Top](#awesome-developer-resources)
 
 
-## Database Management System
 
-- [Prisma](https://www.prisma.io/dataguide/intro)
-- [Oracle](https://www.oracle.com/database/what-is-a-relational-database/)
-- [Scaler](https://www.scaler.com/topics/dbms/)
-- [Database Star](https://www.databasestar.com/)
-- [Opentextbc](https://opentextbc.ca/dbdesign01/)
-
-
-
-- [Back to Top](#awesome-developer-resources)
 ## Frontend Resources
 
 - [Merge Society](https://www.mergesociety.com/)
@@ -148,25 +201,6 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 
 - [Back to Top](#awesome-developer-resources)
 
-
-## Data Structures and Algorithms (DSA)
-
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
-
-
-- [Back to Top](#awesome-developer-resources)
-
-
-## CSS and HTML Guides
-
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
-- [CSS-Tricks](https://css-tricks.com/)
-- [W3Schools](https://www.w3schools.com/)
-
-
-- [Back to Top](#awesome-developer-resources)
 
 
 ## Free E-books
@@ -216,35 +250,6 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 - [Back to Top](#awesome-developer-resources)
 
 
-## Design Inspirations
-
-- [UI Store Design](uistore.design)
-- [UI8](ui.net)
-- [Mobbin](https://mobbin.com/browse/ios/apps)
-- [Freebies UI](frebies.net)
-- [Freebies By People](frebies.bypeople.com)
-- [UI Bundle](uibundle.com)
-- [UI Garage](uigarage.net)
-- [XD Guru](xdguru.com)
-- [Godly Website](https://godly.website/)
-- [Appshots Design](https://appshots.design/)
-- [Graphic For Free](https://graphicforfree.com/)
-- [Texture Labs](https://texturelabs.org/)
-- [Background Supply](https://www.background.supply/)
-- [Anything World](https://anything.world/)
-- [Gomila](https://www.gomila.co/)
-- [UI Sources](https://www.uisources.com/)
-- [Scrnshts Club](https://scrnshts.club/)
-- [Indie Ground](https://indieground.net/)
-- [Graphics Fuel](https://www.graphicsfuel.com/)
-- [Bloo Wireframe Kit](bloouikit.com)
-- [Daily UI Kit](dailyui.co)
-- [Collect UI](collectui.com)
-- [Screenlane](screenlane.com)
-- [Awwwards](https://www.awwwards.com/)
-- [Dark Design](https://www.dark.design/)
-
-- [Back to Top](#awesome-developer-resources)
 
 ## And More
 
