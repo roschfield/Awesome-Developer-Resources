@@ -54,10 +54,18 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 ## Database Management System
 
 - [Database Star](https://www.databasestar.com/)
+- [Learn SQL](https://learnsql.com/)
+- [MySQL Tutorial](https://www.mysqltutorial.org/)
 - [Oracle](https://www.oracle.com/database/what-is-a-relational-database/)
 - [Opentextbc](https://opentextbc.ca/dbdesign01/)
+- [PrestoDB Documentation](https://prestodb.io/docs/current/sql.html)
 - [Prisma](https://www.prisma.io/dataguide/intro)
 - [Scaler](https://www.scaler.com/topics/dbms/)
+- [SQL Bolt](https://sqlbolt.com/)
+- [SQL Shack](https://www.sqlshack.com/)
+- [Tech On The Net](https://www.techonthenet.com/sql/index.php)
+- [w3resource](https://www.w3resource.com/index.php)
+
 
 
 - [Back to Top](#awesome-developer-resources)
