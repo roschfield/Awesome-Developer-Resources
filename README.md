@@ -143,9 +143,18 @@ Welcome to the Awesome Developer Resources repository! Here, you'll find a curat
 
 ## Illustrations
 - [Blush Design](blush.design)
+- [Absurd](https://absurd.design/)
+- [Storyset](https://storyset.com/)
 - [Draw kit](drawkit.io)
+- [Manypixels](https://www.manypixels.co/gallery)
+- [Pixeltrue](https://www.pixeltrue.com/)
 - [IRA Design](iradesign.io)
 - [Undraw](undraw.co)
+- [Humaaans](https://www.humaaans.com/)
+- [Control](https://control.rocks/)
+- [Open peeps](https://openpeeps.com/)
+- [Lukas Zadam](https://lukaszadam.com/)
+
 - [Back to Top](#awesome-developer-resources)
 
 ## Icons
