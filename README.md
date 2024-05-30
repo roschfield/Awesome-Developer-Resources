@@ -1,4 +1,4 @@
-# Awesome Developer Resources
+# Awesome Resources
 
 Welcome to the Awesome Resources repository! Here, you'll find a curated list of various resources to help you on your journey to becoming a better developer. Whether you're looking websites for jobs, design inspirations, interview practice, roadmaps, data structures and algorithms (DSA), frontend practice, free e-books, or more, you'll find it all here!
 
