@@ -243,6 +243,7 @@ Hello and Welcome to the Awesome Resources repository! Here, you'll find a curat
 - [GitHub](https://github.com/)
 - [Git](https://git-scm.com/)
 - [Postman](https://www.postman.com/)
+- [NextReset](https://nextreset.ai/) - Source-linked public Codex reset history and official AI service incident reference.
 - [Slack](https://slack.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
