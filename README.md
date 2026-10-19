@@ -242,6 +242,7 @@ Hello and Welcome to the Awesome Resources repository! Here, you'll find a curat
 - [Docker](https://www.docker.com/)
 - [GitHub](https://github.com/)
 - [Git](https://git-scm.com/)
+- [Glim](https://github.com/NeoPanic/Glim)
 - [Postman](https://www.postman.com/)
 - [Slack](https://slack.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
