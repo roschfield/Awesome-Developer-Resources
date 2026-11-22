@@ -245,6 +245,7 @@ Hello and Welcome to the Awesome Resources repository! Here, you'll find a curat
 - [Postman](https://www.postman.com/)
 - [Slack](https://slack.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Zelobiz Developer Tools](https://zelobiz.com/tools/) - 100+ free interactive client-side developer utilities, architecture calculators, and DevOps converters.
 
 
 - [Back to Top](#awesome-developer-resources)
